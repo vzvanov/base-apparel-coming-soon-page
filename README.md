@@ -58,4 +58,4 @@ I used Pixel Perfect.
 
 ## Acknowledgments
 
-Thanks to Frontend 
+Thanks to Frontend Mentor for great challenges.
